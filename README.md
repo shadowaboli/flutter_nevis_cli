@@ -64,9 +64,6 @@
 
 ---
 
-## 📝 مجوز
-
-[MIT License](./LICENSE)
 
 ---
 
