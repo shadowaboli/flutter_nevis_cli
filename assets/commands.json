@@ -1,0 +1,152 @@
+[
+  {
+    "commandName": "flutter doctor",
+    "description": "بررسی سلامت محیط توسعه و نمایش گزارش نصب/کمبود ابزارها",
+    "terminalCode": "flutter doctor"
+  },
+  {
+    "commandName": "flutter create",
+    "description": "ساخت یک پروژه جدید فلاتر",
+    "terminalCode": "flutter create my_app"
+  },
+  {
+    "commandName": "flutter run",
+    "description": "اجرا کردن اپ روی دستگاه یا شبیه‌ساز متصل",
+    "terminalCode": "flutter run"
+  },
+  {
+    "commandName": "flutter run --release",
+    "description": "اجرا در حالت Release برای تست نسخه نهایی",
+    "terminalCode": "flutter run --release"
+  },
+  {
+    "commandName": "flutter build apk",
+    "description": "ساخت فایل APK برای اندروید",
+    "terminalCode": "flutter build apk --release"
+  },
+  {
+    "commandName": "flutter build appbundle",
+    "description": "ساخت Android App Bundle برای انتشار در Google Play",
+    "terminalCode": "flutter build appbundle --release"
+  },
+  {
+    "commandName": "flutter build ios",
+    "description": "ساخت فایل IPA برای iOS",
+    "terminalCode": "flutter build ios --release"
+  },
+  {
+    "commandName": "flutter clean",
+    "description": "پاک‌سازی فولدر build و کش فلاتر",
+    "terminalCode": "flutter clean"
+  },
+  {
+    "commandName": "flutter pub get",
+    "description": "دانلود و نصب پکیج‌های معرفی‌شده در pubspec.yaml",
+    "terminalCode": "flutter pub get"
+  },
+  {
+    "commandName": "flutter pub add",
+    "description": "اضافه کردن یک پکیج جدید از pub.dev",
+    "terminalCode": "flutter pub add package_name"
+  },
+  {
+    "commandName": "flutter pub upgrade",
+    "description": "آپدیت تمام پکیج‌ها به آخرین نسخه‌ی سازگار",
+    "terminalCode": "flutter pub upgrade"
+  },
+  {
+    "commandName": "flutter pub outdated",
+    "description": "نمایش پکیج‌هایی که نسخه جدید دارند",
+    "terminalCode": "flutter pub outdated"
+  },
+  {
+    "commandName": "flutter analyze",
+    "description": "بررسی کد با Dart analyzer برای خطاها و هشدارها",
+    "terminalCode": "flutter analyze"
+  },
+  {
+    "commandName": "flutter format",
+    "description": "فرمت کردن خودکار کد بر اساس Dart style guide",
+    "terminalCode": "flutter format ."
+  },
+  {
+    "commandName": "flutter test",
+    "description": "اجرای تمام تست‌های unit و widget",
+    "terminalCode": "flutter test"
+  },
+  {
+    "commandName": "flutter drive",
+    "description": "اجرای تست‌های integration با Flutter Driver",
+    "terminalCode": "flutter drive --target=test_driver/app.dart"
+  },
+  {
+    "commandName": "flutter devices",
+    "description": "لیست دستگاه‌ها و شبیه‌سازهای متصل",
+    "terminalCode": "flutter devices"
+  },
+  {
+    "commandName": "flutter emulators",
+    "description": "لیست و مدیریت شبیه‌سازهای موجود",
+    "terminalCode": "flutter emulators --launch <emulator_id>"
+  },
+  {
+    "commandName": "flutter logs",
+    "description": "مشاهده لاگ دستگاه متصل در زمان واقعی",
+    "terminalCode": "flutter logs"
+  },
+  {
+    "commandName": "flutter install",
+    "description": "نصب فایل build شده روی دستگاه متصل",
+    "terminalCode": "flutter install"
+  },
+  {
+    "commandName": "flutter build web",
+    "description": "ساخت نسخه وب (build/web)",
+    "terminalCode": "flutter build web --release"
+  },
+  {
+    "commandName": "flutter build macos",
+    "description": "ساخت نسخه دسکتاپ macOS",
+    "terminalCode": "flutter build macos --release"
+  },
+  {
+    "commandName": "flutter build windows",
+    "description": "ساخت نسخه دسکتاپ Windows",
+    "terminalCode": "flutter build windows --release"
+  },
+  {
+    "commandName": "flutter build linux",
+    "description": "ساخت نسخه دسکتاپ Linux",
+    "terminalCode": "flutter build linux --release"
+  },
+  {
+    "commandName": "flutter upgrade",
+    "description": "آپدیت فلاتر و Dart به آخرین stable",
+    "terminalCode": "flutter upgrade"
+  },
+  {
+    "commandName": "flutter channel",
+    "description": "تعویض یا نمایش کانال (stable, beta, master)",
+    "terminalCode": "flutter channel stable"
+  },
+  {
+    "commandName": "flutter precache",
+    "description": "دانلود پیش‌فرض فریم‌ورک‌ها و آرتیفکت‌های لازم برای تمام پلتفرم‌ها",
+    "terminalCode": "flutter precache"
+  },
+  {
+    "commandName": "flutter gen-l10n",
+    "description": "تولید خودکار فایل‌های localisation بر اساس arb",
+    "terminalCode": "flutter gen-l10n"
+  },
+  {
+    "commandName": "flutter pub deps",
+    "description": "نمایش گراف وابستگی پکیج‌ها",
+    "terminalCode": "flutter pub deps"
+  },
+  {
+    "commandName": "flutter pub run build_runner build",
+    "description": "اجرای build_runner برای ساخت کدهای generated (freezed, json_serializable, ...)",
+    "terminalCode": "flutter pub run build_runner build --delete-conflicting-outputs"
+  }
+]
