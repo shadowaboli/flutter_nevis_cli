@@ -62,9 +62,3 @@
 
 <img width="974" height="710" alt="image" src="https://github.com/user-attachments/assets/06a1c752-9290-49a5-b58d-0be63faa4734" />
 
----
-
-
----
-
-اگه خواستی می‌تونم فایل `README.md` کامل برات تولید کنم یا حتی فارسی و انگلیسی رو با هم بذارم. فقط بگو چطور دوست داری.
